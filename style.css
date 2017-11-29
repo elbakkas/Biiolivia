@@ -1,0 +1,276 @@
+
+@import url('https://fonts.googleapis.com/css?family=Indie+Flower:100,300,500,900');
+
+html,body{
+  margin:0;padding:0;
+  font-family:Indie+Flower;
+}
+.inner{
+  width: 80%;
+  margin: auto;
+}
+.menu{
+  
+  background:white;
+  width: 90%;
+  height: 69px;
+  line-height: 20px;
+  font-family: fantasy;
+  
+}
+.m-left{
+  float: left;
+}
+.logo{
+  margin: 0;padding: 0;
+  font-family: cursive;
+  font-weight: 500;
+  font-size: 40px;
+  letter-spacing:3px;
+}
+.m-left{
+  float: left;
+}
+
+
+
+
+
+.m-left{
+  float: left;
+}
+
+
+
+.m-left{
+  float: left;
+}
+
+
+.m-link{
+  text-decoration:none;
+  color:rgb(107, 119, 0);
+  text-transform: uppercase;
+  font-weight: 700;
+  padding:0;margin: 0 30px;
+  
+}
+.m-link:hover{
+  border-bottom:2px solid #C2C57F;  
+}
+.m-right{
+  float:left;
+}
+.m-link:hover{
+  border-bottom:2px solid green;
+  
+}
+}
+body {
+  margin: 0;
+}
+@media only screen and (max-width: 1100px)
+ position : absolute;
+top: 70px; right: 0 ;
+width:200px;
+height:100%;
+body {
+  margin: 0;
+}
+
+
+
+
+
+.banner {
+  background: linear-gradient(135deg, rgba(56, 57, 59, 0.2) 0%, rgba(84, 82, 16, 0.4) 100%), 
+ url(https://res.cloudinary.com/twenty20/private_images/t_watermark-criss-cross-10/v1491074268000/photosp/36dba133-c318-4a77-88ec-1a4bd8517741/stock-photo-cream-wellness-massage-beauty-care-pampering-spa-aromatherapy-body-oil-skin-care-36dba133-c318-4a77-88ec-1a4bd8517741.jpg);
+  background-size: cover;
+  background-position: center center;
+  text-align: center;
+  padding: 200px 300px;
+  color: white;
+}
+.button {
+  background: #FF5C5C;
+  color: white;
+  padding: 7px 7px;
+  text-decoration: none;
+  border-radius: 50px;
+}
+
+
+.button-lg {
+  font-size: 120%;
+  padding: 12px 20px;
+}
+
+
+
+.fa {
+  color: black;
+  position: cover;
+}
+
+  
+
+h2{
+  
+  background-position: center center;
+  text-align: center;
+font-family: fantasy;
+  color: rgb(45,45,45); 
+}
+
+body {
+  font-family: Arial;
+}
+
+p {
+  margin: 0;
+}
+h4 {
+  margin: 0;
+}
+
+
+
+.card-title {
+  position: absolute;
+  bottom: 10px;
+  left: 35%;
+}
+
+
+.card {
+  background: yellow;
+  width: 400px;
+  height: 350px;
+  position: relative;
+  background: url(https://scontent-sea1-1.cdninstagram.com/t51.2885-15/s480x480/e35/17818992_2247938942097470_8805544458520100864_n.jpg?ig_cache_key=MTMwODg4Mjg3Mjc2MTczMjUyMQ%3D%3D.2);
+  background-size: cover;
+  color:#393939;
+  border-radius: 10px;
+  text-shadow: 4 6 10px black;
+  text-align: center;
+  font-family: cursive;
+}
+
+.card-author {
+  position: absolute;
+  right: 10px;
+  bottom: 10px;
+}
+
+p{
+  font-size: 15pt;
+}
+
+
+.col-sm-4:hover {
+  background: #F4F5F4;
+  opacity: 1;
+   }
+
+.click {
+  color: white;
+  background: rgb(193,41,46);
+  padding: 20px 30px;
+  text-decoration: none;
+  margin-top: 10px;
+  display: inline-block;
+  font-size : 20px;
+}
+.click:hover {
+  background: rgb(241,211,2); 
+}
+
+
+
+.input-normal {
+    background-color: #fff;
+    -webkit-border-top-left-radius: 5px;
+    -webkit-border-bottom-left-radius: 5px;
+    -moz-border-radius-topleft: 5px;
+    -moz-border-radius-bottomleft: 5px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    box-sizing: border-box;
+    color: #024156;
+    transition-property: border-color color;
+    transition-duration: 150ms;
+    transition-timing-function: ease-in-out;
+    border-left: 2px solid #a6b5bf;
+    border-top: 2px solid #a6b5bf;
+    border-bottom: 2px solid #a6b5bf;
+    height: 40px;
+    padding: 5px 010px;
+    font-size: 20px;
+    font-family: 'Museo700-Regular';
+}
+button, input, optgroup, select, textarea {
+    color: inherit;
+    font: inherit;
+    margin: 0;
+}
+  button.halfround {
+    border-radius: 0px;
+    -webkit-border-top-right-radius: 5px;
+    -webkit-border-bottom-right-radius: 5px;
+    -moz-border-radius-topright: 5px;
+    -moz-border-radius-bottomright: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+
+button {
+    align-self: center;
+    height: 40px;
+    padding-left: 20px;
+    padding-right: 20px;
+    color: white;
+    font-size: 18px;
+    text-align: center;
+    background:#FF5C5C;
+    transition: all 0.1s ease-in-out;
+    cursor: pointer;
+    border: none;
+}
+
+ .newsletter-form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+  }
+  
+  .newsletter-form input {
+    flex: 1;}
+
+
+.footer {
+  background: #F5E1DA;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 100px;
+  padding: 0px 50px;
+  color: rgba(0,0,0,0.6);
+}
+.footer-links {
+  display: flex;
+  align-items: center;
+}
+.footer-links a {
+  color: black;
+  opacity: 0.15;
+  text-decoration: none;
+  font-size: 30px;
+  padding: 0px 10px;
+}
+
+.footer-links a:hover {
+  opacity: 1;
+}
+
